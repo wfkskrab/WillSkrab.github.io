@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF - 8">
+    <title>MY First Page</title>
+</head>
+
+<body>
+    <h1>Hello World</h1>
+    
+    <ul>
+        <li>pepperoni</li>
+            <ul>
+                <li>turkey</li>
+            </ul>
+        <li>pineapple</li>
+
+    </ul>
+    <select>
+        <option value="manchego">Manchego </option>
+
+
+        <a href="https://www.google.com"></a>
+</body>
+
+<html>
